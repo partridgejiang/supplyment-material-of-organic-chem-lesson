@@ -17,8 +17,8 @@
 
 # -- Project information -----------------------------------------------------
 
-project = '《有机化学》在线学习补充材料'
-copyright = '2020, Chen Jiang'
+project = '《有机化学》学习重难点小结'
+copyright = '2020-2021, Chen Jiang'
 author = 'Chen Jiang'
 
 
